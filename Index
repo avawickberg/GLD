@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Leadership Distinction</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Graduating with Leadership Distinction</p>
+    </header>
+    <section>
+        <h2>About Me</h2>
+        <p>I’m a dedicated student graduating in [Year] with a focus on leadership. This site showcases my journey and achievements.</p>
+    </section>
+    <section>
+        <h2>Leadership Highlights</h2>
+        <ul>
+            <li>Led a team project that [describe briefly]</li>
+            <li>Organized [event/activity] to demonstrate initiative</li>
+        </ul>
+    </section>
+    <footer>
+        <p>Contact: your.email@example.com</p>
+    </footer>
+</body>
+</html>
